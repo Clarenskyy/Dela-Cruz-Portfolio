@@ -1,0 +1,6 @@
+{
+  "name": "Developer Portfolio",
+  "description": "A highly polished, interactive portfolio application for developers to showcase projects with custom tags, live previews, and repository links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
